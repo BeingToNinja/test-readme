@@ -8,7 +8,7 @@
 # Dir
 
 + [Awesome JavaScript](#awesome-javascript)
-  + [Package Managers](#package-managers)
+  + [Package Managers](#包管理器)
   + [Loaders](#loaders)
   + [Bundlers](#bundlers)
   + [Type Checkers](#type-checkers)
@@ -48,3 +48,38 @@ Hello world
 
 # EDITORS
 eidtors
+Hello world
+Hello world
+Hello worldHello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+
+Hello world
+Hello world
+Hello worldHello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+
+
+## 包管理器
+Package
