@@ -7,13 +7,13 @@
 
 # Dir
 
-* [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Loaders](#loaders)
-  * [Bundlers](#bundlers)
-  * [Type Checkers](#type-checkers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
++ [Awesome JavaScript](#awesome-javascript)
+  + [Package Managers](#package-managers)
+  + [Loaders](#loaders)
+  + [Bundlers](#bundlers)
+  + [Type Checkers](#type-checkers)
+  + [Testing Frameworks](#testing-frameworks)
+  + [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
@@ -21,7 +21,7 @@
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
     * [Spreadsheet](#spreadsheet)
-  * [Editors](#editors)
+  + [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
   
